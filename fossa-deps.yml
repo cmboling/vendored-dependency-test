@@ -1,0 +1,4 @@
+vendored-dependencies:
+  - name: nRF5 SDK
+    version: 17.1.0
+    path: nRF5_SDK_17.1.0_ddde560.zip
